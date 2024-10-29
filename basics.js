@@ -1,1 +1,1 @@
-console.log("hello Lexicon");
+console.log("hello Lexicon"); //Print out hello lexicon
