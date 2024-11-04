@@ -8,4 +8,4 @@ const d = {
   age: 36,
 };
 
-console.log("hello Lexicon"); //Print out hello lexicon
+console.log("hello Lexicon! \n" + `${d.name}`); //Print out hello lexicon
